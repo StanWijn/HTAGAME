@@ -1,5 +1,5 @@
 # HTAGAME
-![alt text](http://github.com/StanWijn/HTAGAME/radboudlogo.jpg)
+![alt text](http://github.com/StanWijn/HTAGAME/img_radboudlogo.png)
 http://htagame.dx.am/
 
 This game was developed by the Radboudumc (Nijmegen, the Netherlands) to provide more insight in the research choices prior to release of an innovation. Limiting the budget for research provides the participant with an option: Do I want to spend more money on research or are the current results sufficient to be sure that your innovation will give the most value for money.
